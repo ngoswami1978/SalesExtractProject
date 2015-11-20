@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "RRS SSIS DEVELOPEMENT", "NEW ALL TRANSACTION PROCESS\RRS SSIS DEVELOPEMENT.dtproj", "{730536E4-C128-4FB3-9614-9A280919D59F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730536E4-C128-4FB3-9614-9A280919D59F}.Development|Default.ActiveCfg = Development
+		{730536E4-C128-4FB3-9614-9A280919D59F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

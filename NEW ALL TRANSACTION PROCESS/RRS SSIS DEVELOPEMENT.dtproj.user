@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <StartObjectID>ALL TRANSACTION PROCESS.dtsx</StartObjectID>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>{DFA56DA5-A320-4F00-8FAF-05D49E75EADE}</Id>
+            <Name>{DFA56DA5-A320-4F00-8FAF-05D49E75EADE}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAa+UkDBjl5E6JoG38J+Ii4wAAAABOAAAAewBEAEYAQQA1ADYARABBADUALQBBADMAMgAwAC0ANABGADAAMAAtADgARgBBAEYALQAwADUARAA0ADkARQA3ADUARQBBAEQARQB9AAAAEGYAAAABAAAgAAAA0Bepken2DX1svz3+qFzDcYJ3i151ONcdSZWql6ryogcAAAAADoAAAAACAAAgAAAAyREbN4jF437wgyY1+ymprIF4g+/GNAUXQ3ZJ2VWWObEgAAAAgzqXwOJ3gbBzabPiDnCLp5KpA++NuV2uOmQ3lKoVSntAAAAALQLMQuu58bfmOfVAcoVbwqcxAEg7DzsWNLKBJY8MKgh0byQRPGbnryWvF/h4iukt+5NL6biKLF/dfSO+Usnf1g==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>{DFA56DA5-A320-4F00-8FAF-05D49E75EADE}</Id>
+            <Name>{DFA56DA5-A320-4F00-8FAF-05D49E75EADE}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAa+UkDBjl5E6JoG38J+Ii4wAAAABOAAAAewBEAEYAQQA1ADYARABBADUALQBBADMAMgAwAC0ANABGADAAMAAtADgARgBBAEYALQAwADUARAA0ADkARQA3ADUARQBBAEQARQB9AAAAEGYAAAABAAAgAAAAQRDCFIYqn4A5FnAgLir9RzIj2l2z7VfJe/FVREcnH7AAAAAADoAAAAACAAAgAAAA6ZjO3nCEXDB6CQQx3qFwi8ycSuEgF5q7mMleF59nEJ4gAAAAAjBx/WMn8PvKEos3SQtua0Zd+CRj7OILiUdga0LbvXJAAAAAyfyBNIgYnu2faCN//KeVGNicQ6lfv3t5wro38Ap8f0BNtmf6LQO3aDklRWJd39FlGC6RYjtGoWBe0abDIFjA3g==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
